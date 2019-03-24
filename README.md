@@ -2,4 +2,4 @@
 ## Team Technocrats
 
 ### Construction
-Contains the project on 2D and 3D
+A hand gesture tool which lets you visualise the free hand mapping as 3D
