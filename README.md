@@ -1,2 +1,3 @@
 # c2c
-Contains the project on 2D and 3D
+Team name: Technocrats
+A hand device which lets you visualise your free hand drawings in 3D
